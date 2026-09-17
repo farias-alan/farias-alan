@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou o Alan Farias! 👋
 
-<!--
-**farias-alan/farias-alan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do último período de Sistemas de Informação no IFAL, focado em **Análise de dados** **Engenharia de Dados** e **BI**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Ferramentas
+- **Linguagens & Manipulação:** Python (Pandas), SQL 
+- **Bancos de Dados & DW:** PostgreSQL, MySQL, Data Warehousing, Modelagem Dimensional (Star/Snowflake Schema)
+- **Engenharia & Automação:** ETL/ELT, Celery, Redis, APIs RESTful, Docker
+- **BI & Visualização:** Power BI, Qlik Sense
+- **Infraestrutura & Nuvem:** AWS, Git, Linux
+
+---
+
+### 📌 Conecte-se comigo:
+- ✉️ **E-mail:** aaof.alan@gmail.com
+- 💼 **LinkedIn:** [alan-farias-dados](https://www.linkedin.com/in/alan-farias-dados)
+- 📍 **Localização:** Maceió, AL
