@@ -1,6 +1,6 @@
 # Olá, sou o Alan Farias! 👋
 
-Estudante do último período de Sistemas de Informação no IFAL, focado em **Análise de dados** **Engenharia de Dados** e **BI**.
+Estudante do último período de Sistemas de Informação no IFAL, focado em **Análise de dados**, **Engenharia de Dados** e **BI**.
 
 ---
 
